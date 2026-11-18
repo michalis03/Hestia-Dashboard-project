@@ -1,0 +1,9 @@
+type: custom:hestia-community
+hestia:
+  version: 1
+  rooms:
+    - id: sample-room
+      label: Sample room
+      entities:
+        - light.example_lamp
+        - sensor.example_temperature

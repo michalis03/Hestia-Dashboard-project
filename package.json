@@ -1,0 +1,13 @@
+{
+  "name": "hestia-home-assistant",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "rollup src/card.js --format es --file dist/hestia-community.js",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "rollup": "4.59.0"
+  }
+}
