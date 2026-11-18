@@ -2,7 +2,7 @@
 
 The Community Edition tree starts from fresh Git history. It contains newly written code and synthetic examples. The existing private implementation remains the reference for future feature work. Review rights and third-party notices before copying any of its source or assets.
 
-MIT is the proposed project license for straightforward reuse and redistribution with preservation of the copyright and license notice. Apache-2.0 adds an express patent grant and additional notice requirements. Confirm the intended copyright holder and license before adding a LICENSE file or publishing the project as open source. Rollup is a build dependency and the emitted bundle contains the project's source.
+The Community Edition is licensed under MIT. Preserve the copyright and license notice when redistributing the source or bundle. Rollup is a build dependency and the emitted bundle contains the project’s source.
 
 ## Verified
 

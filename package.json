@@ -9,5 +9,6 @@
   },
   "devDependencies": {
     "rollup": "4.59.0"
-  }
+  },
+  "license": "MIT"
 }
